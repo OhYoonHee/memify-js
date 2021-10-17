@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "target": "ES2016",
+        "module": "CommonJS",
+        "pretty": true,
+        "skipLibCheck": true,
+        "outDir": "./",
+        "experimentalDecorators": true
+    },
+    "exclude": ["node_modules"],
+    "include": ["memify.ts"]
+}
